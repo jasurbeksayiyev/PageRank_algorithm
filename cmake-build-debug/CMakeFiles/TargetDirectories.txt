@@ -1,0 +1,3 @@
+/Users/jurabeksayfiev/CLionProjects/untitled/cmake-build-debug/CMakeFiles/PageRank.dir
+/Users/jurabeksayfiev/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jurabeksayfiev/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
